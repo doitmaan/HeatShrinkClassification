@@ -9,6 +9,7 @@ verify_ssl = true
 scipy = "*"
 imutils = "*"
 opencv-contrib-python = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.7"
